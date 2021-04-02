@@ -25,7 +25,7 @@
             "*://drchandlertallow.com/*",
             "*://ptr.surviv.io/*",
             "*://iceproxy.herokuapp.com/*",
-            "*://c79geyxwmp1zpas3qxbddzrtytffta.ext-twitch.tv/*"
+            "*://www.twitch.tv/popout/survivio/extensions/c79geyxwmp1zpas3qxbddzrtytffta/panel/*"
         ]
     },
     "icons": {
@@ -51,7 +51,7 @@
                 "*://drchandlertallow.com/*",
                 "*://ptr.surviv.io/*",
                 "*://iceproxy.herokuapp.com/*",
-                "*://c79geyxwmp1zpas3qxbddzrtytffta.ext-twitch.tv/*"
+                "*://www.twitch.tv/popout/survivio/extensions/c79geyxwmp1zpas3qxbddzrtytffta/panel/*"
             ],
             "js": ["content.js"],
             "run_at": "document_start"
